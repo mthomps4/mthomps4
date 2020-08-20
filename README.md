@@ -1,4 +1,7 @@
-### Hi there 👋
+### Builder of things...
+
+![Hammer Building Gif](https://media.giphy.com/media/ToMjGpz63CcxpN235OE/giphy.gif)
+
 
 <!--
 **mthomps4/mthomps4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
