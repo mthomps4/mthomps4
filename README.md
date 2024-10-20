@@ -4,20 +4,17 @@
 ## About Me
 I'm a builder and creator at heart.
 
-For over a decade, I've been immersed in the software consulting world, working across industries such as IP Advertising, Healthcare, Telecom, and E-Commerce. I've helped companies understand and solve complex problems while leading teams to drive progress. I aim to share my learnings and pitfalls to build momentum.
+For over a decade, I've been immersed in the software consulting world, working across industries such as IP Advertising, Healthcare, Telecom, and E-Commerce. I've helped companies navigate and solve complex challenges while leading teams to drive meaningful progress. My goal is to share the lessons I've learned (and the mistakes I've made) to help others build momentum.
 
-The Repos here are quick graveyard fodder, but if you find any use of them fantastic!   
-The bulk of my work lives with Clients in their domain.
+Most of the public repositories on this account are quick prototypes destined for archival. Many are simple "initializations" aimed at exploring new areas of technology and assessing their potential for future projects. The majority of my work resides with my clients, under their domain. If you find something useful here, that's fantastic!
 
-When time allows, I try to write "How to's" and snippets for future me in the form of [blog posts](https://mthomps4.com/blog). 
-This is never as often as I would like, but there's a better chance you will find information more organized there.  
+When time permits, I try to write "how-to" guides and snippets for my future self, often in the form of [blog posts](https://mthomps4.com/blog). It's never as frequent as I'd like, but you're more likely to find organized content there.
 
 ## Links 
 - 🌐 [Blog/About](https://mthomps4.com)
 - 👔 [LinkedIn](https://linkedin.com/in/mthomps4)
 - 🐱 [GitHub](https://github.com/mthomps4) (You are here!)
 - 🐦 [X](https://x.com/mthomps4)
-
 
 
 <!--
