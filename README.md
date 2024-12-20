@@ -16,7 +16,7 @@ When time permits, I try to write "how-to" guides and snippets for my future sel
 
 
 
-# ![Penguin Working](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdwYzJkdGsxbGdyc3JqOHBpamg0NG5vcnpiYmh4eTN3eWx3NDUxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
+<!-- ![Penguin Working](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdwYzJkdGsxbGdyc3JqOHBpamg0NG5vcnpiYmh4eTN3eWx3NDUxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif) -->
 
 
 
